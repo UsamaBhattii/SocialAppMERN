@@ -1,4 +1,4 @@
-# MERN Stack Assessment - Complete Solution
+# MERN Stack Social Application
 
 ## Project Structure
 \`\`\`
